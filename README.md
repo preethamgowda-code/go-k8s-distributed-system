@@ -40,8 +40,3 @@ kubectl apply -f service.yaml
 kubectl get pods
 # Kill a pod manually to test resurrection
 kubectl delete pod [POD_NAME]
-
-Proof of Concept:
-<img width="1315" height="470" alt="image" src="https://github.com/user-attachments/assets/c519ebab-0751-4f4c-a12e-e86b28890a76" />
-
-

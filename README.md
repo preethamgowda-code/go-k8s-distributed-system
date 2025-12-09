@@ -41,4 +41,5 @@ kubectl get pods
 # Kill a pod manually to test resurrection
 kubectl delete pod [POD_NAME]
 
+PROOF OF COMPLITION:
 <img width="1286" height="375" alt="image" src="https://github.com/user-attachments/assets/666ae2ce-536c-44db-94f1-1963bc3df504" />
